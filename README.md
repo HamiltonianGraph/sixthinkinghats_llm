@@ -19,6 +19,8 @@ This work is an implementation of the last paper, linking six large-language mod
 
 (not my graphic)
 
+
+
 For convenience, the Python script includes the agent template from my [openai-agent](https://github.com/HamiltonianGraph/openai_agent) repository.
 
-
+The code as written requires 'keyfile.txt'. This is for the convenience of users who may not want to bother with setting environment variables. To use, replace 'yourkeyhere' with your OpenAI key.
